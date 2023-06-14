@@ -1,0 +1,33 @@
+html{
+    background-attachment: fixed;
+    background-image: url(https://e0.pxfuel.com/wallpapers/486/844/desktop-wallpaper-gold-color-butterfly-butterfly-background-gold-golden-design-backgro-gold-sparkle-butterfly-background-butterfly-gold-and-black-butterfly.jpg);
+    background-size: 98%;
+
+}
+
+
+
+
+
+#first{
+    margin:auto;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 40%;
+    margin-right: 400px;
+    border-radius:1%;
+    margin-top: 100px;
+    
+
+}
+img{
+     border:5px solid goldenrod;
+    border-radius:30%;
+    margin-right: 80%;
+}
+h2{
+    color: goldenrod;
+}
+h1{
+    color:goldenrod;
+}

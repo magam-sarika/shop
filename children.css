@@ -1,0 +1,32 @@
+html{
+    background-attachment: fixed;
+    background-image: url(https://w0.peakpx.com/wallpaper/831/164/HD-wallpaper-pink-rose-border-3-background-black-background-with-flower-border.jpg);
+    background-size: 100%;
+}
+h1{
+    color: palevioletred;
+}
+h2{
+    color: aquamarine;
+}
+
+
+
+
+#first{
+    margin:auto;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius:5%;
+    margin-top: 100px;
+    
+
+}
+img{
+
+    border:5px solid palevioletred;
+    border-radius:30%;
+    margin-right: 100%;
+}

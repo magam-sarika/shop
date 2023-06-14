@@ -1,0 +1,10 @@
+.container{
+    color: white;
+    margin: auto;
+    margin-left: 90%;
+}
+html{
+    background-attachment: fixed;
+    background-image: url(https://media.istockphoto.com/id/1286825422/vector/futuristic-online-shopping-e-commerce-concept-with-glowing-smartphone-shopping-cart-credit.jpg?s=612x612&w=0&k=20&c=PSJSmwBuy8_fpXqkVcVmamNlDeFJhtSLzOx45O3HOso=);
+    background-size: 90%;
+}

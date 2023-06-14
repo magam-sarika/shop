@@ -1,0 +1,36 @@
+html{
+    background-attachment: fixed;
+    background-image: url(https://cdn.wallpapersafari.com/88/85/mrxAWw.jpg);
+    background-size: 98%;
+}
+
+
+
+
+
+#first{
+    margin:auto;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius:1%;
+    margin-top: 100px;
+    
+
+}
+img{
+
+    border:5px solid yellow;
+    border-radius:30%;
+    margin-right: 80%;
+}
+h1{
+    color: yellow;
+}
+h2{
+    color: darkgray;
+}
+u{
+    color: yellow;
+}

@@ -1,0 +1,35 @@
+
+html{
+    background-attachment: fixed;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/008/619/502/large_2x/bag-yellow-orange-red-white-color-golden-background-wallpaper-copy-space-decoration-ornament-business-shopping-friday-sale-store-retail-product-special-surprise-commercial-discount-consumer-3d-render-photo.jpg);
+    background-size: 100%;
+    background-color: azure;
+
+}
+
+
+img{
+
+    
+    border-radius:30%;
+    margin-left: 500px;
+    margin-top: 100px;
+
+}
+h1{
+    color: whitesmoke;
+}
+h2{
+    color: black;
+    text-align:right;
+
+    margin-top:2px;
+    
+}
+.nav{
+    display: flex;
+    width: 150px;
+    height: 25px;
+    margin-left: 85%;
+}
+

@@ -1,0 +1,36 @@
+.first{
+    display: flex;
+}
+#a{
+    margin-left:20% ;
+    margin-top: -2%;
+}
+img{
+    margin-left: 40%;
+}
+body{
+    margin-left: 10%;
+ 
+    
+}
+.second{
+    display:flex;
+}
+#b{
+    margin-left:20% ;
+    margin-top: -2%;
+}
+.third{
+    display:flex;
+}
+#c{
+    margin-left:20% ;
+    margin-top: -2%;
+}
+.four{
+    display:flex;
+}
+#d{
+    margin-left:20% ;
+    margin-top: -2%;
+}
